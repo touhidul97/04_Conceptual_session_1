@@ -3,3 +3,7 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: x-large;
 }
+p{
+    color: rgba(0, 0, 0, 0.45);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
